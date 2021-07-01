@@ -6,7 +6,7 @@
 </p>
 
 <!--About session-->
-<h1 align="center">Desafios dos Bootcamps da Digital Innovation One</h1>
+<h1 align="center">Desafios e projetos do Bootcamp Impulso Full Stack Developer da Digital Innovation One</h1>
 
 Todos os desafios e projetos realizados no bootcamp que realizei da [Digital Innovation One](https://digitalinnovation.one/).<br>
 Os códigos estão rodando normalmente na plataforma da DIO.
